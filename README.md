@@ -1,4 +1,4 @@
-# Frida proyecto :)
+# Competencia de natación 
 Mi proyecto consiste en un sistema para llevar a cabo competencias de natación. En este existiran 4 clases: competencia, evento, nadador y piscina.  A traves de este sistema se podra resgitra la competencia, en base a esta competencia registrada se crean eventos individuales (por ejemplo 400 metros libre de mujeres o 200 metros combinado de hombres) por una relacion de composicion debido a que el evento no puede exisir sin la competencia. A partir del evento se crea por agregacion las clases de nadador y piscina donde se registra la alberca donde se nadara y los datos del nadador(tiempos, participacion en el evento, descalificacion). Finalmente del nadador se desarrolla una subclase de record donde se regitran los record de eventos nadados. 
 
 <img width="461" alt="Screenshot 2023-11-20 at 11 43 54" src="https://github.com/Fridaxca123/-/assets/82528468/a4ca6b20-e433-4313-8491-747c19c7bc12">
