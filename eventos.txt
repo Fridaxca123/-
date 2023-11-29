@@ -1,0 +1,3 @@
+NumEvento: 4, Estilo: Libre, Distancia: 50
+NumEvento: 3, Estilo: pecho , Distancia: 200
+NumEvento: 5, Estilo: libre, Distancia: 1500

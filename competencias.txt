@@ -1,0 +1,2 @@
+Nombre: Estatarl Queretaro, Fecha: 28/13/2023, Lugar: Queretaro 2000, NumNadadores: 250, NumEventos: 1
+Nombre: Estatal Queretaro, Fecha: 28/13/2023, Lugar: Queretaro 2000, NumNadadores: 250, NumEventos: 2
