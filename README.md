@@ -3,4 +3,4 @@ Mi proyecto es un swim meet, surgio de la necesidad de una plataforma para regis
 
 <img width="591" alt="Screenshot 2023-11-29 at 10 52 19" src="https://github.com/Fridaxca123/-/assets/82528468/4c90dec7-d930-43cc-9c5d-a5ebab8394d4">
 
-Para que el usuarion pueda usar el proyectop primero debe de descargar todos los documentos que se encuentran en esta pagina. 
+Para que el usuarion pueda usar el proyectop primero debe de descargar todos los documentos que se encuentran en esta pagina. Abre la terminal y escribe "g++ main.cpp -o a.exe" presiona enter. Despues escribe "ls" y da enter. Finalmente escribe "./a.axe" y el programa comenzara a correr. Ahi elige una opcion e ingresa los datos que se te requieren. 
